@@ -1,1 +1,1 @@
-printing list of more than one directory
+type of data contained by a file
