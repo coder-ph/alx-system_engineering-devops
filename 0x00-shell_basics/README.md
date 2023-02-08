@@ -1,1 +1,1 @@
-moving all files beginning with uppercase letters
+deleting with a specific character
