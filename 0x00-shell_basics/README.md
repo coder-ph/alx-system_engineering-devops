@@ -1,1 +1,1 @@
-deleting with a specific character
+creating multiple directories
