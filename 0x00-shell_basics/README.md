@@ -1,1 +1,1 @@
-changing from working directory to previous directory
+printing list of more than one directory
