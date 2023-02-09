@@ -1,1 +1,1 @@
-bash-betty permission
+printing username of current user
