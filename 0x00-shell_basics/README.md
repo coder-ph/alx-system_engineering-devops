@@ -1,1 +1,1 @@
-shell basics
+Changing from working dir to home dir
