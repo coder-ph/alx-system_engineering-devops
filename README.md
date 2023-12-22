@@ -1,1 +1,1 @@
-this is a readme file for I/O redirection
+0x03. Shell, init files, variables and expansions
