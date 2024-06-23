@@ -1,1 +1,1 @@
-adding multiple permissions to a file
+permission to all subdirectories
