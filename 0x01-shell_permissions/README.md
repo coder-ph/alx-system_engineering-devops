@@ -1,1 +1,1 @@
-permission to all subdirectories
+changing owner and group
